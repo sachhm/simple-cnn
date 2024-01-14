@@ -1,5 +1,8 @@
 """
 app.py 
 
-Main python script that actually runs the code
+Main python script that actually builds and runs the network
 """
+import torch
+
+
